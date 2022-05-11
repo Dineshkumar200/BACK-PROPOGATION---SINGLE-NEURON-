@@ -58,7 +58,7 @@ print(w)
 ```
 
 ## <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>Output:
-<br/><br/><br/><br/>![Screenshot 2022-04-19 202109](https://user-images.githubusercontent.com/75235789/164032879-d6706271-c15b-4e59-97b2-d15a61b5422e.jpg)
+<br/>![Screenshot 2022-04-19 202109](https://user-images.githubusercontent.com/75235789/164032879-d6706271-c15b-4e59-97b2-d15a61b5422e.jpg)
 
 
 ## <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>Result:
